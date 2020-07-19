@@ -1,0 +1,40 @@
+
+
+.mod ul li a{
+  font-size: 20px !important;
+  text-align: center !important;
+  margin-left:80px;
+  margin-right:80px;
+}
+
+#prueba{
+  width: 80%;
+  height: 150px;
+}
+footer{
+  width: 100%;
+}
+
+i{
+  color: white;
+  font-size: 80px;
+}
+
+#tratamientos{
+  margin-bottom: 100px;
+}
+body{background-color: lightpink;}
+
+h1{ padding-top: 50px;
+  color: #655A5A;
+}
+h2{padding-top: 50px;
+  color: #655A5A;
+}
+
+.carousel-item{
+  height: 500px;
+}
+.carousel-item img{
+  height: 500px;
+}
